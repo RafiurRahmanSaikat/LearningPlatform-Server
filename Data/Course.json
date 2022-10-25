@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "title": "Learn Ethical Hacking From Scratch",
+        "category": "Ethical Hacking",
+        "img": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 ",
+        "price": 25000,
+        "description": "Welcome this comprehensive Ethical Hacking course! This course assumes you have NO prior knowledge and by the end of it you'll be able to hack systems like black-hat hackers and secure them like security experts! This course is highly practical but it won't neglect the theory; we'll start with ethical hacking basics, breakdown the different penetration testing fields and install the needed software (on Windows, Linux and Mac OS X), then we'll dive and start hacking straight away. You'll learn everything by example, by analysing and exploiting different systems such as networks, servers, clients, websites .....etc. We'll never have any boring dry theoretical lectures."
+    },
+    {
+        "id": "02",
+        "title": "The Ultimate 2022 Fullstack Web Development Bootcamp",
+        "category": "Web Development",
+        "img": "https://images.pexels.com/photos/11035371/pexels-photo-11035371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "price": 15000,
+        "description": "Welcome to the Ultimate 2022 Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer and the only course that will prepare you for a career in web development.At 40+ hours, this web development course is extremely comprehensive and one of the most detailed courses available on Udemy! Even if you have zero programming experience, this course will take you from beginner to coding ninja. Here's how"
+    },
+    {
+        "id": "03",
+        "title": "Graphic Design Masterclass - Learn GREAT Design",
+        "category": "Graphic Design",
+        "img": "https://images.pexels.com/photos/3747266/pexels-photo-3747266.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "price": 16750,
+        "description": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design"
+    },
+    {
+        "id": "04",
+        "title": "Data Analytics in Regression",
+        "category": "Data Analysis ",
+        "img": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "price": 9800,
+        "description": "Get marketable and highly sought after skills in this course while substantially increasing your knowledge of data analytics in regression. All course videos created and narrated by an award winning instructor and textbook author of quantitative methods."
+    },
+    {
+        "id": "05",
+        "title": "Website Hacking / Penetration Testing",
+        "category": "Penetration Testing ",
+        "img": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "price": 7000,
+        "description": "Note: The contents of this course are not covered in any of my other courses except for some basics. Although website hacking is covered in one of my other courses, that course only covers the basics where this course dives much deeper in this topic covering more techniques, more vulnerabilities, advanced exploitation, advanced post exploitation, bypassing security and more!"
+    },
+    {
+        "id": "06",
+        "title": "The Complete Machine Learning Course with Python",
+        "category": "Machine Learning ",
+        "img": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "price": 17500,
+        "description": "The Complete Machine Learning Course in Python has been FULLY UPDATED for November 2019! With brand new sections as well as updated and improved content, you get everything you need to master Machine Learning in one course! The machine learning field is constantly evolving, and we want to make sure students have the most up-to-date information and practices available to them:"
+    }
+]
